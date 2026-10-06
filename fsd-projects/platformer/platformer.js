@@ -50,10 +50,13 @@ createPlatform(1000, 400, 200, 10, "purple")
 createPlatform(200, 520, 200, 10, "purple")
 createPlatform(200, 400, 200, 10, "purple")
 
+
     // TODO 3 - Create Collectables
 //realtokens
 createCollectable("database", 1075,350)
 createCollectable("database", 275,350)
+
+createCollectable("database", 1050,75)
 
 createCollectable("database", 685,135)
 
